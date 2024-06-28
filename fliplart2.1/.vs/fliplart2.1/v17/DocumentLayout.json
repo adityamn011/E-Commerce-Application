@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|c:\\users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|solutionrelative:fliplart2.1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|c:\\users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|solutionrelative:fliplart2.1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|c:\\users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|solutionrelative:fliplart2.1\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|c:\\users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|solutionrelative:fliplart2.1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|c:\\users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|solutionrelative:fliplart2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|c:\\users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\migrations\\20240509043818_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|solutionrelative:fliplart2.1\\migrations\\20240509043818_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|c:\\users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|solutionrelative:fliplart2.1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|c:\\users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\fliplart2.1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|solutionrelative:fliplart2.1\\fliplart2.1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|c:\\users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00521FCD-2E83-480A-9EE1-9D42E23C27D4}|fliplart2.1\\fliplart2.1.csproj|solutionrelative:fliplart2.1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\models\\Product.cs",
+              "RelativeDocumentMoniker": "fliplart2.1\\models\\Product.cs",
+              "ToolTip": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\models\\Product.cs",
+              "RelativeToolTip": "fliplart2.1\\models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:47:27.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "fliplart2.1\\context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\context\\AppDbContext.cs",
+              "RelativeToolTip": "fliplart2.1\\context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:46:37.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "fliplart2.1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "fliplart2.1\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA1wDQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:40:22.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240509043818_Tables.cs",
+              "DocumentMoniker": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\Migrations\\20240509043818_Tables.cs",
+              "RelativeDocumentMoniker": "fliplart2.1\\Migrations\\20240509043818_Tables.cs",
+              "ToolTip": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\Migrations\\20240509043818_Tables.cs",
+              "RelativeToolTip": "fliplart2.1\\Migrations\\20240509043818_Tables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:38:19.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "fliplart2.1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "fliplart2.1\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:22:17.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\Program.cs",
+              "RelativeDocumentMoniker": "fliplart2.1\\Program.cs",
+              "ToolTip": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\Program.cs",
+              "RelativeToolTip": "fliplart2.1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:54:44.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\appsettings.json",
+              "RelativeDocumentMoniker": "fliplart2.1\\appsettings.json",
+              "ToolTip": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\appsettings.json",
+              "RelativeToolTip": "fliplart2.1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T16:21:39.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fliplart2.1.http",
+              "DocumentMoniker": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\fliplart2.1.http",
+              "RelativeDocumentMoniker": "fliplart2.1\\fliplart2.1.http",
+              "ToolTip": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\fliplart2.1.http",
+              "RelativeToolTip": "fliplart2.1\\fliplart2.1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-09T04:28:01.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "fliplart2.1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mna\\flipkart2.1project\\fliplart2.1\\fliplart2.1\\appsettings.Development.json",
+              "RelativeToolTip": "fliplart2.1\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T04:31:18.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
